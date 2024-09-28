@@ -1,0 +1,32 @@
+# Ignore les fichiers de compilation Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Répertoire de build ou compilation (si vous en avez un)
+build/
+target/
+
+# Logs
+*.log
+
+# Répertoires spécifiques aux IDE
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# Fichiers spécifiques au système
+*.DS_Store  # macOS
+Thumbs.db   # Windows
+
+# Fichiers temporaires ou de sauvegarde
+*.tmp
+*.bak
+*.swp
+
+# Fichiers cachés générés par certains éditeurs
+*.~undo-tree~
+
